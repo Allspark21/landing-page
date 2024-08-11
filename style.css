@@ -13,3 +13,13 @@
     width: 400px;
     height: 250px;
 }
+
+.section2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.pic2 {
+    width: 150;
+    height: 150px;
+}
