@@ -1,4 +1,4 @@
-.class {
+.content {
     display: flex;
     flex-direction: column;
 }
@@ -22,4 +22,13 @@
 .pic2 {
     width: 150;
     height: 150px;
+}
+
+.section4 {
+    display: flex;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
 }
